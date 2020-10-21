@@ -1,3 +1,6 @@
+# 酷Q挂了, 重新写了个新版本的在[另一个repo](https://github.com/Inv0k3r/dota2_csgo_watcher_bot)里
+
+
 # dota2_watcher_qqbot
 dota2 watcher qq bot with coolq
 修改自 https://github.com/unilink233/dota2_watcher
